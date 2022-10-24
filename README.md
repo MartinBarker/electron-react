@@ -1,6 +1,12 @@
 Martin Setup:
+```
 $ npm i
 $ npm i -D concurrently cross-env electron electron-builder electronmon wait-on
+$ npm run electron:start
+```
+Tips:
+- open new compoent file
+type rfce, click enter, sets up function template
 
 Important guides/links used:
 1. react + electron: https://mmazzarolo.com/blog/2021-08-12-building-an-electron-application-using-create-react-app/
