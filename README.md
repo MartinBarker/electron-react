@@ -8,8 +8,10 @@ Tips:
 - open new compoent file
 type rfce, click enter, sets up function template
 
-Important guides/links used:
+Important guides/links/tutorials used:
 1. react + electron: https://mmazzarolo.com/blog/2021-08-12-building-an-electron-application-using-create-react-app/
+2. react to do app (with my own added persistent localstorage):  https://www.youtube.com/watch?v=E1E08i2UJGI&ab_channel=BrianDesign
+3. framless/borderless window + custom window ui: https://github.com/binaryfunt/electron-seamless-titlebar-tutorial
 <hr>
 
 # Getting Started with Create React App

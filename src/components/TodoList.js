@@ -27,17 +27,6 @@ function TodoList() {
             return
         }
 
-        /*
-        //get localstorage todos value, set as [] if it doesnt exist yet
-        var localStorageTodos = JSON.parse(localStorage.getItem('todos'))
-        if (localStorageTodos == null) localStorageTodos = []
-
-        //if todos is blank, but some exist in localstorage, retrieve localstorage todos
-        if (todos.length == 0 && localStorageTodos.length >= 1) {
-            todos = localStorageTodos
-        }
-        */
-
         //combine current todo with list of todos
         const newTodos = [todo, ...todos]
 

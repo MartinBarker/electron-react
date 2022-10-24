@@ -8,7 +8,10 @@ function App(props) {
   return (
    <div className='todo-app'>
     <h1>ToDo App</h1>
-    <TodoList />
+
+      {/*
+        <TodoList />
+      */}
 
    </div>
   );
